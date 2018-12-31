@@ -1,4 +1,4 @@
-# egg-egg-ablecloud
+# egg-ablecloud
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -28,7 +28,7 @@ Description here.
 
 ### 依赖的 egg 版本
 
-egg-egg-ablecloud 版本 | egg 1.x
+egg-ablecloud 版本 | egg 1.x
 --- | ---
 1.x | 😁
 0.x | ❌
