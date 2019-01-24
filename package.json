@@ -1,6 +1,6 @@
 {
   "name": "egg-ablecloud",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Egg sdk for able cloud",
   "eggPlugin": {
     "name": "ablecloud"
