@@ -11,7 +11,7 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "ablecloud-sdk": "^2.0.0"
+    "ablecloud-sdk": "^2.0.1"
   },
   "devDependencies": {
     "autod": "^3.0.0",
